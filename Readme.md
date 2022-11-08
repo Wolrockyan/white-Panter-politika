@@ -1,10 +1,10 @@
-Godzilla varsayılan olarak herhangi bir veri saklamaz. Sunucu Yönetme iznine sahip bir sunucu üyesi botun ön-ekini değiştirmek için önek
+White Panter varsayılan olarak herhangi bir veri saklamaz. Sunucu Yönetme iznine sahip bir sunucu üyesi botun ön-ekini değiştirmek için önek
 komutunu kullanırsa, sunucunun otomatik olarak oluşturulan Discord Kimliği (örneğin, 996751772255277206) sağlanan önekle birlikte botun
 veritabanında saklanacaktır.Bunlar ayarlanabilir komutlar içinde geçerlidir.Bu veri saklamasının sebebi bot kapatılıp açıldığında botun sorunsuz
 devam etmesini sağlaması içindir.
-Sunucuyla ilgili başka hiçbir veri depolanmaz. Godzilla, kullanıcılara özel verileri asla saklamaz. Önek verileri yalnızca botun çalışması için saklanır ve
+Sunucuyla ilgili başka hiçbir veri depolanmaz. White Panter, kullanıcılara özel verileri asla saklamaz. Önek verileri yalnızca botun çalışması için saklanır ve
 başka hiç kimseyle paylaşılmaz veya başka herhangi bir nedenle kullanılmaz. Veriler, ücretli Sanal Özel Sunucularda saklanır.
-Ayrıca verilerin silinmesini talep etmek için 'Ly3ssia#0001 (978276967877054464) discordumdan bana ulaşabilirsiniz veya destek sunucusuna
+Ayrıca verilerin silinmesini talep etmek için 'wolrock#0001  discordumdan bana ulaşabilirsiniz veya destek sunucusuna
 gelip talep açıp bunu belirtebilirsiniz.
 Veriler 30 günden az süreyle saklanır. Veriler özel sanal sunucuda korunmaktadır.
 Kullanıcı isterse kendi verilerine istek üzerine erişebilir.
